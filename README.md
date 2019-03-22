@@ -1,4 +1,4 @@
-**Demo 地址 ：https://github.com/renxuelong/ComponentDemo**
+**Demo 地址 ：https://github.com/Jesse505/ComponentDemo**
 
 ## 演示为先
 ![](https://raw.githubusercontent.com/renxuelong/HexoBlog/master/Resource/2018-11/组件化演示.gif)
@@ -808,9 +808,9 @@ Login 组件中添加 resourcePrefix 配置后，我们会发现 res 中 xml 定
 
 解决了上面提到的六个问题，组件化开发中遇到的主要问题也就全部解决了。其中最关键的就是模块与组件间的解耦。在设计之初也参考了目前主流的几种组件化方案，后来从使用难度、理解难度、维护难度、扩展难度等方面考虑，最终确定了目前的组件化方案。
 
-**Demo 地址 ：https://github.com/renxuelong/ComponentDemo**
+感谢原创作者，转载自：https://juejin.im/post/5b5f17976fb9a04fa775658d
 
-![](https://raw.githubusercontent.com/renxuelong/HexoBlog/master/Resource/2018-11/组件化演示.gif)
+
 
 
 
